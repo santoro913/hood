@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord-together": "^1.3.3",
+    "discord.js": "^13.9.1",
+    "dispage": "^1.0.8",
+    "dotenv": "^16.0.1",
+    "figlet": "^1.5.2",
+    "moment": "^2.29.4",
+    "node-json-db": "^1.6.0"
+  },
+  "engines": {
+    "node": "16.X"
+  },
+  "name": "hood",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "1001220729745981450": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
