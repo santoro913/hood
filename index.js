@@ -16,7 +16,7 @@ module.exports.client = new (require('./classes/Bot'))({
         activities: [
             {
                 type: "COMPETING",
-                name: '.gg/crownfr'
+                name: 'dev by hood'
             }
         ]
     },
