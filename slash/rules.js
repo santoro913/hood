@@ -56,6 +56,7 @@ let embed = new Discord.MessageEmbed()
 .setDescription(rules)
 .setImage("https://media.discordapp.net/attachments/1002604515448598570/1002701319863279706/rules.png")
 let button = new Discord.MessageButton()
+    .setEmoji("1002898287159935048>")
     .setLabel("J'accepte le reglement")
     .setStyle('SUCCESS')
     .setCustomId('verify');
