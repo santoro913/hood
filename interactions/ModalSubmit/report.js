@@ -25,7 +25,7 @@ module.exports.run = async ({ client, int }) => {
     if (type) embed.addField("Type", type, true);
     if (text) embed.addField("Text", text, true);
 
-    await client.channels.cache.get("1002247880595214407").send({
+    await client.channels.cache.get("1003024046704828447").send({
         content: client.owner.toString(),
         embeds: [embed]
     });
