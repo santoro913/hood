@@ -45,6 +45,6 @@ const {
             )
         )
   
-      await int.showModal(modal)
+      await int.showModal(recrutement.js)
     }
   })
