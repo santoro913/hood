@@ -46,8 +46,7 @@ module.exports = new Slash({
 1 • La pub Mp est interdite.
 2 • Votre serveur doit respecter lesTOS
 3 • Les pub NSFW sont interdites.
-4 • Votre publicité doit avoir une description.
-5 • Vous devez respecter les salons dédié à la publicité.`.trim()
+4 • Toutes appelations aux DOXING ou autre sera sanctionné.`.trim()
 
 let embed = new Discord.MessageEmbed()
 .setColor(client.color)
